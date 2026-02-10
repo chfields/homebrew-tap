@@ -1,6 +1,6 @@
 cask "ghostty-theme-picker" do
-  version "1.2.0"
-  sha256 "2f05110e1d5988c18e71452ae3379a9d4a5d24b52337cff7f5babe0432e6e333"
+  version "1.3.0"
+  sha256 "5df84b0af5a3a6fa7517ea642eb65064af7afa357b051a91e96ef620fdbbaf9a"
 
   url "https://github.com/chfields/GhosttyThemePicker/releases/download/v#{version}/GhosttyThemePicker.dmg"
   name "Ghostty Theme Picker"
